@@ -1,0 +1,40 @@
+# Arduino / PlatformIO
+.pio/
+.vscode/
+.idea/
+
+# Arduino build artifacts
+build/
+build-*/
+*.hex
+*.elf
+*.eep
+*.map
+*.bin
+*.out
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / temporary files
+*.swp
+*.swo
+*~
+*.tmp
+*.temp
+
+# Logs
+*.log
+
+# Python / data-analysis cache (if used for testing)
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local test data that should not be committed accidentally
+*.csv
+*.raw
+
+# Keep project documentation, source code, CAD and images tracked.
