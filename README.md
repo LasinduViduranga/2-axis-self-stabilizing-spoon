@@ -168,7 +168,7 @@ The X-axis command is reversed in software to match the mechanical orientation o
 The spoon is mounted on a 2-axis articulated mechanism. The two axes allow the spoon to compensate for rotational movement in two directions, approximately corresponding to pitch and roll.
 
 ![Mechanical design](documentation/images/mechanical-design.png)
-(documentation/images/ready-to-print-version.png)
+![Mechanical design](documentation/images/ready-to-print-version.png)
 
 ## Circuit
 
